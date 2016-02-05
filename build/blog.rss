@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title>A brand new static site</title>
+  <link>http://my.blog.url</link>
+  <description>This is my blog about things</description>
+  <lastBuildDate>2016-02-05 19:57:19</lastBuildDate>
+  <language>en-us</language>
+<item>
+  <title>Welcome to Obelisk</title>
+  <description>[CDATA[ A new blog post ]]</description>
+  <pubDate>2016-02-05</pubDate>
+  <link>http://my.blog.url/2016-02-05-welcome-to-obelisk.html</link>
+  <guid>http://my.blog.url/2016-02-05-welcome-to-obelisk.html</guid>
+</item>
+<item>
+  <title>First post</title>
+  <description>[CDATA[ A new blog post ]]</description>
+  <pubDate>2016-02-05</pubDate>
+  <link>http://my.blog.url/2016-02-05-first-post.html</link>
+  <guid>http://my.blog.url/2016-02-05-first-post.html</guid>
+</item>
+</channel>
+</rss>
